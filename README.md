@@ -1,1 +1,3 @@
 # operateHeliumPreferences_with_python
+
+Heliumブラウザの、キーバインドなどの設定をプロファイル間で同期したりするためのリポジトリ
